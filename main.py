@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 import dbmet
 
-token = "5497304680:AAH4QBbTWrMKLTdF81y1_nysUjBD4A71ZTU"
+token = "ТУТ УСТАНОВИТЬ ТОКЕН БОТА"
 bot = telebot.TeleBot(token)
 
 
